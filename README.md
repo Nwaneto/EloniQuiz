@@ -1,2 +1,2 @@
 # EloniQuiz
-A Quiz Web App for Assessment
+A Quiz Web App for Assessments
